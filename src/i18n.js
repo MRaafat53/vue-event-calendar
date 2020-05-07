@@ -7,6 +7,14 @@ export default {
     dayEventsTitle: 'All Events',
     notHaveEvents: 'Not Have Events'
   },
+  ar: {
+    dayNames: ["ح", "ن", "ث", "ر", "خ", "ج", "س"],
+    monthNames: ["يناير", "فبراير", "مارس", "إبريل", "مايو", "يونيو", "يوليو", "أغسطس", "سبتمبر", "اكتوبر", "نوفمبر", "ديسمبر"],
+    format: 'MM/yyyy',
+    fullFormat: 'dd/MM/yyyy',
+    dayEventsTitle: 'جميع المناسبات',
+    notHaveEvents: 'لا يوجد اى مناسبة'
+  },
   zh: {
     dayNames: ["日", "一", "二", "三", "四", "五", "六"],
     monthNames: ["一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"],
